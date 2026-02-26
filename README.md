@@ -97,16 +97,12 @@ const developer = {
 ## 🤝 Get In Touch  
 ### Let's turn your ideas into reality 🚀  
 
-<p align="center">
-  <a href="https://my-portfolio-iota-ashen-36.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-14B8A6?style=for-the-badge" />
-  </a>
   
-  <a href="https://https://www.linkedin.com/in/amritansh-dwivedi-40918936a/">
+  <a href="https://https://linkedin.com/in/amritansh-dwivedi">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" />
   </a>
   
-  <a href="mailto:anshsinghapa@gmail.com">
+  <a href="mailto:ad902487@gmail.com">
     <img src="https://img.shields.io/badge/📧%20Email-ad902487@gmail.com-D14836?style=for-the-badge" />
   </a>
   
