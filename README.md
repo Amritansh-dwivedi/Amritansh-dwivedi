@@ -111,6 +111,6 @@ const developer = {
   </a>
   
   <a href="https://github.com/Amritansh-dwivedi">
-    <img src="https://img.shields.io/badge/🐙%20GitHub-Amritansh-dwivedi-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🐙%20GitHub-Amritansh--dwivedi-000000?style=for-the-badge" />
   </a>
 </p>
