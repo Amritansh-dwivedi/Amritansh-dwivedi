@@ -19,3 +19,24 @@
     <img src="https://img.shields.io/badge/WhatsApp-+91%209554979458-brightgreen?style=for-the-badge&logo=whatsapp">
   </a>
 </p>
+
+
+```js
+const developer = {
+  name: "Amritansh Dwivedi",
+  location: "Uttar Pradesh, India 🇮🇳",
+  mindset: "Ship fast, iterate faster",
+
+  believes_in: [
+    "Code is a tool, not the product",
+    "User experience > Developer convenience",
+    "AI augments creativity, doesn't replace it",
+    "Open source moves humanity forward"
+  ],
+
+  current_focus: {
+    learning: ["AWS", "Docker", "Next.js 15", "OpenAI API"],
+    building: ["AI-powered apps"]
+  }
+};
+```
