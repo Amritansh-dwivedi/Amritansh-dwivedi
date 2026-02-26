@@ -102,7 +102,7 @@ const developer = {
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-14B8A6?style=for-the-badge" />
   </a>
   
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://https://www.linkedin.com/in/amritansh-dwivedi-40918936a/">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" />
   </a>
   
@@ -115,6 +115,6 @@ const developer = {
   </a>
   
   <a href="https://github.com/Amritansh-dwivedi">
-    <img src="https://img.shields.io/badge/🐙%20GitHub-ANSHSINGH050404-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🐙%20GitHub-Amritansh-dwivedi-000000?style=for-the-badge" />
   </a>
 </p>
