@@ -98,7 +98,7 @@ const developer = {
 ### Let's turn your ideas into reality 🚀  
 
   
-  <a href="https://https://linkedin.com/in/amritansh-dwivedi">
+  <a href="https://www.linkedin.com/in/amritansh-dwivedi-40918936a/">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" />
   </a>
   
