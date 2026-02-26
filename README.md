@@ -21,6 +21,9 @@
 </p>
 
 
+
+## 💭 The Philosophy
+
 ```js
 const developer = {
   name: "Amritansh Dwivedi",
@@ -37,6 +40,7 @@ const developer = {
   current_focus: {
     learning: ["AWS", "Docker", "Next.js 15", "OpenAI API"],
     building: ["AI-powered apps"]
+    exploring: ["Openai API integrations"]
   }
 };
 ```
