@@ -15,7 +15,7 @@
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge">
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/amritansh-dwivedi-40918936a/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
   </a>
   <a href="mailto:your@email.com">
