@@ -1,16 +1,17 @@
-## Hi there 👋
+ █████╗ ███╗   ███╗██████╗ ██╗████████╗ █████╗ ███╗   ██╗███████╗██╗  ██╗
+██╔══██╗████╗ ████║██╔══██╗██║╚══██╔══╝██╔══██╗████╗  ██║██╔════╝██║  ██║
+███████║██╔████╔██║██████╔╝██║   ██║   ███████║██╔██╗ ██║███████╗███████║
+██╔══██║██║╚██╔╝██║██╔══██╗██║   ██║   ██╔══██║██║╚██╗██║╚════██║██╔══██║
+██║  ██║██║ ╚═╝ ██║██║  ██║██║   ██║   ██║  ██║██║ ╚████║███████║██║  ██║
+╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
 
-<!--
-**Amritansh-dwivedi/Amritansh-dwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Amritansh%20Dwivedi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-Here are some ideas to get you started:
+<h1 align="center">🚀 Building Digital Experiences That Scale</h1>
+<h3 align="center">Full-Stack Developer | MERN Stack | AI Enthusiast</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Email-Hire%20Me-red?style=for-the-badge">
+</p>
