@@ -15,4 +15,7 @@
   <a href="mailto:ad902487@email.com">
     <img src="https://img.shields.io/badge/Email-Hire%20Me-red?style=for-the-badge">
   </a>
+  <a href="https://wa.me/919554979458">
+    <img src="https://img.shields.io/badge/WhatsApp-+91%209554979458-brightgreen?style=for-the-badge&logo=whatsapp">
+  </a>
 </p>
