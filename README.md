@@ -91,3 +91,30 @@ const developer = {
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Amritansh-dwivedi&theme=tokyonight&hide_border=true" height="170" />
 </p>
+
+
+
+## 🤝 Get In Touch  
+### Let's turn your ideas into reality 🚀  
+
+<p align="center">
+  <a href="https://my-portfolio-iota-ashen-36.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-14B8A6?style=for-the-badge" />
+  </a>
+  
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" />
+  </a>
+  
+  <a href="mailto:anshsinghapa@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-ad902487@gmail.com-D14836?style=for-the-badge" />
+  </a>
+  
+  <a href="https://wa.me/919554979458">
+    <img src="https://img.shields.io/badge/📱%20WhatsApp-+91%209554979458-25D366?style=for-the-badge" />
+  </a>
+  
+  <a href="https://github.com/Amritansh-dwivedi">
+    <img src="https://img.shields.io/badge/🐙%20GitHub-ANSHSINGH050404-000000?style=for-the-badge" />
+  </a>
+</p>
