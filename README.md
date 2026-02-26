@@ -4,12 +4,6 @@
 <h1 align="center">🚀 Building Digital Experiences That Scale</h1>
 <h3 align="center">Full-Stack Developer | MERN Stack | AI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Email-Hire%20Me-red?style=for-the-badge">
-</p>
-
 
 <p align="center">
   <a href="https://yourportfolio.com">
@@ -18,7 +12,7 @@
   <a href="https://www.linkedin.com/in/amritansh-dwivedi-40918936a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:ad902487@email.com">
     <img src="https://img.shields.io/badge/Email-Hire%20Me-red?style=for-the-badge">
   </a>
 </p>
