@@ -44,3 +44,30 @@ const developer = {
   }
 };
 ```
+
+
+## 🎯 What I Bring to Your Team  
+
+### 🎨 Frontend Mastery
+```js
+// Pixel-perfect interfaces
+const skills = {
+  frameworks: ["React", "Next.js 15", "React Native"],
+  mobile: ["Expo", "NativeWind", "React Navigation"],
+  styling: ["TailwindCSS", "Framer Motion"],
+  state_management: ["Zustand", "React Query", "Redux"]
+};
+```
+
+---
+
+### ⚡ Backend Engineering
+```python
+# Scalable systems
+stack = {
+    "runtime": ["Node.js", "Bun"],
+    "frameworks": ["Express.js", "FastAPI", "LangChain"],
+    "databases": ["PostgreSQL", "MongoDB"],
+    "orm": ["Drizzle ORM", "Prisma"]
+}
+```
