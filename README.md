@@ -95,7 +95,7 @@ const developer = {
 
 
 ## 🤝 Get In Touch  
-### Let's turn your ideas into reality 🚀  
+### Let's turn your ideas into reality   
 
   
   <a href="https://www.linkedin.com/in/amritansh-dwivedi-40918936a/">
