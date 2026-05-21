@@ -6,17 +6,14 @@
 
 
 <p align="center">
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge">
-  </a>
   <a href="https://www.linkedin.com/in/amritansh-dwivedi-40918936a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
   </a>
   <a href="mailto:ad902487@email.com">
     <img src="https://img.shields.io/badge/Email-Hire%20Me-red?style=for-the-badge">
   </a>
-  <a href="https://wa.me/919554979458">
-    <img src="https://img.shields.io/badge/WhatsApp-+91%209554979458-brightgreen?style=for-the-badge&logo=whatsapp">
+  <a href="https://wa.me/918354954319">
+    <img src="https://img.shields.io/badge/WhatsApp-+91%208354954319-brightgreen?style=for-the-badge&logo=whatsapp">
   </a>
 </p>
 
@@ -106,8 +103,8 @@ const developer = {
     <img src="https://img.shields.io/badge/📧%20Email-ad902487@gmail.com-D14836?style=for-the-badge" />
   </a>
   
-  <a href="https://wa.me/919554979458">
-    <img src="https://img.shields.io/badge/📱%20WhatsApp-+91%209554979458-25D366?style=for-the-badge" />
+  <a href="https://wa.me/918354954319">
+    <img src="https://img.shields.io/badge/📱%20WhatsApp-+91%208354954319-25D366?style=for-the-badge" />
   </a>
   
   <a href="https://github.com/Amritansh-dwivedi">
