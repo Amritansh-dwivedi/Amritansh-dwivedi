@@ -81,7 +81,9 @@ const developer = {
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Amritansh-dwivedi&theme=tokyonight&hide_border=true" height="170" />
 </p>
+## 🔥 GitHub Streak
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Amritansh-dwivedi)](https://git.io/streak-stats)
 
 
 ## 🤝 Get In Touch  
